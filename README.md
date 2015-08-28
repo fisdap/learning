@@ -18,10 +18,23 @@ This is a technical team that meets periodically to:
 - Check out our meeting notes for more information on what we're up to.
 
 
-## Prospective Topics
-- [ ] [Setting up a development environment](https://github.com/fisdap/learning/tree/master/dev-environment-setup)
-- [ ] Git, Github, and source control
-- [ ] Task managers
+## Prospective Topics (Both front and back end)
+- [ ] [Tooling: Setting up a development environment](https://github.com/fisdap/learning/tree/master/dev-environment-setup)
+- [ ] Tooling: Git, Github, and source control
+- [ ] Tooling: Task managers
+- [ ] Language: NodeJS deep dive
+- [ ] Language: ES6 and Babel
+- [ ] Language: TypeScript
+- [ ] Library: lodash
+- [ ] Library: jquery
+- [ ] Library: Rx.js
+- [ ] Library: D3
+- [ ] Framework: AngularJS
+- [ ] Framework: ReactJS
+- [ ] Framework: Falcor
+- [ ] Databases: MySQL
+- [ ] Databases: NoSQL
+- [ ] Databases: Graph databases
 
 
 ## Members
