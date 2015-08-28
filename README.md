@@ -26,6 +26,6 @@ This is a technical team that meets periodically to:
 
 ## Members
 
-- Kate
-- Norah
-- Jim
+- @katehanson
+- @hsvanni
+- @jimthedev
