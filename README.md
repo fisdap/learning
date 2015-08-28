@@ -19,9 +19,9 @@ This is a technical team that meets periodically to:
 
 
 ## Prospective Topics
-[ ] Setting up a development environment
-[ ] Git, Github, and source control
-[ ] Task managers
+- [ ] Setting up a development environment
+- [ ] Git, Github, and source control
+- [ ] Task managers
 
 
 ## Members
