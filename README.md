@@ -19,7 +19,7 @@ This is a technical team that meets periodically to:
 
 
 ## Prospective Topics
-- [ ] Setting up a development environment
+- [ ] [Setting up a development environment](https://github.com/fisdap/learning/tree/master/dev-environment-setup)
 - [ ] Git, Github, and source control
 - [ ] Task managers
 
