@@ -17,9 +17,15 @@ This is a technical team that meets periodically to:
 - Join in the 'Learning' team on Hipchat.
 - Check out our meeting notes for more information on what we're up to.
 
+
+## Prospective Topics
+[ ] Setting up a development environment
+[ ] Git, Github, and source control
+[ ] Task managers
+
+
 ## Members
 
 - Kate
 - Norah
 - Jim
-
